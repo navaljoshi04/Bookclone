@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "name": "Horror Book",
+    "title": "An exciting journey through horror stories that will keep you on the edge of your seat.",
+    "price": 0,
+    "category": "Exciting Novel",
+    "subcategory": "Free",
+    "image": "./bookstwo.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Adventure Quest",
+    "title": "Embark on thrilling adventures with brave heroes in fantastical lands.",
+    "price": 0,
+    "category": "Adventure",
+    "subcategory": "Free",
+    "image": "./bookstwo.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Science Wonders",
+    "title": "Explore the amazing world of science and discover the wonders of the universe.",
+    "price": 0,
+    "subcategory": "Free",
+    "category": "Science",
+    "image": "./bookstwo.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Mystery Tales",
+    "title": "Dive into a collection of intriguing mystery stories that will challenge your detective skills.",
+    "price": 0,
+    "subcategory": "Free",
+    "category": "Mystery",
+    "image": "./bookstwo.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Fantasy Realms",
+    "title": "Journey through magical worlds filled with dragons, wizards, and epic quests.",
+    "price": 8,
+    "category": "Fantasy",
+    "subcategory": "Paid",
+    "image": "./bookstwo.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Historical Legends",
+    "title": "Discover legendary tales from history that shaped the world as we know it.",
+    "price": 11,
+    "subcategory": "Paid",
+    "category": "History",
+    "image": "./bookstwo.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Tech Innovations",
+    "title": "Learn about groundbreaking technological advancements that are transforming our future.",
+    "price": 13,
+    "subcategory": "Paid",
+    "category": "Technology",
+    "image": "./bookstwo.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Romantic Escapades",
+    "title": "Indulge in heartwarming love stories that will sweep you off your feet.",
+    "price": 9,
+    "subcategory": "Paid",
+    "category": "Romance",
+    "image": "./bookstwo.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Self-Improvement Guide",
+    "title": "Unlock your potential with practical tips and strategies for personal growth.",
+    "price": 7,
+    "subcategory": "Paid",
+    "category": "Self-Help",
+    "image": "./bookstwo.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Culinary Delights",
+    "title": "Explore a world of flavors with recipes and culinary tips from top chefs.",
+    "price": 0,
+    "subcategory": "Paid",
+    "category": "Cooking",
+    "image": "./bookstwo.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Children's Classics",
+    "title": "Delight young readers with timeless tales and enchanting illustrations.",
+    "price": 5,
+    "subcategory": "Paid",
+    "category": "Children",
+    "image": "./bookstwo.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Mindfulness Meditation",
+    "title": "Embrace tranquility and inner peace through guided meditation practices.",
+    "price": 10,
+    "subcategory": "Paid",
+    "category": "Wellness",
+    "image": "./bookstwo.jpg"
+  }
+]
